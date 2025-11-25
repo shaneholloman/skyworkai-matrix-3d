@@ -447,7 +447,7 @@ All camera matrices used in our project are world to camera matrices in opencv f
 ## 🖱️ Gradio Demo
 We also provide a Gradio demo for better visualization. To launch the demo, run the following command in your terminal:
 ```
-python code/matrix.py --max_gpus=1
+python code/app_matrix3d.py --max_gpus=1
 ```
 
 Notes on GPU Configuration:
